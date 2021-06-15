@@ -5,6 +5,7 @@
 Think about digital transformation. You have a lot of code that you developed that does great calculations, statistics and graphs. How do you put it to be consumed by other? Do you still need to login and run your code every time? 
 What if you automate it with APIs or jobs? This repository contains code and a video with step-by-step on how to configure and run a sample SAS Job Execution project from an HTML form.
 
+I also wrote a blog post and you can read it ![here](https://communities.sas.com/t5/SAS-Communities-Library/SAS-Job-Execution-a-loan-application/ta-p/667802)
 
 ## Initial steps
 
